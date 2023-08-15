@@ -1,0 +1,1 @@
+/authenticationendpoint/login.do?Name=PreLoginRequestProcessor&commonAuthCallerPath=%252Fcas%252Flogin&forceAuth=true&passiveAuth=false&service=http://tld.target&tenantDomain=carbon.super&sessionDataKey=683d9e1f-c351-4eed-b28d-2c3b57c0b90d&relyingParty=CX-Jobs&type=cas&sp=CX-Jobs&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL
